@@ -7,7 +7,7 @@ A basic tool for **Minecraft** tool's.
 #### Clone from github
 
 ```
-$ git clone https://github.com/yiitwt/WhicWher
+$ git clone https://github.com/yiitwt/WhicVer
 ```
 Next
 ```
