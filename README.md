@@ -11,7 +11,7 @@ $ git clone https://github.com/yiitwt/WhicVer
 ```
 Next
 ```
-$ cd portscanner
+$ cd WhicVer
 ```
 after that
 ```
