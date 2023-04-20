@@ -1,6 +1,6 @@
 # YIIT'S Version Checker 🔍
 
-A basic tool for **Minecraft** tool's.
+A basic tool for **Minecraft**.
 
 
 ## INSTALL & USAGE
